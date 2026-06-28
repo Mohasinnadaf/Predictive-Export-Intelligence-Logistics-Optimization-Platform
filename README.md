@@ -503,20 +503,4 @@ python commodity_agent.py
 
 ---
 
-# 👨‍💻 Author
 
-## Mohasin Nadaf
-
-🎓 B.Tech – D. Y. Patil College of Engineering & Technology, Kolhapur
-
-🎓 PG-Diploma in Big Data Analytics (DBDA), C-DAC Mumbai
-
-💻 Machine Learning | Data Engineering | AI Agents | Generative AI
-
----
-
-<div align="center">
-
-### ⭐ If you found this project useful, please consider giving it a Star ⭐
-
-</div>
